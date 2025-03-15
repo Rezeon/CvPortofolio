@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/CvPortofolio/static/css/main.d9dea3c6.css",
+    "main.js": "/CvPortofolio/static/js/main.461b07ec.js",
+    "static/media/Html.pdf": "/CvPortofolio/static/media/Html.27225f48b01267af1e8f.pdf",
+    "static/media/bootsrap.pdf": "/CvPortofolio/static/media/bootsrap.fb9ffd93a161c001bc66.pdf",
+    "static/media/css.pdf": "/CvPortofolio/static/media/css.cbfc1a1f76441c53a459.pdf",
+    "static/media/git.pdf": "/CvPortofolio/static/media/git.718d39c1cc06451ca13e.pdf",
+    "static/media/java ansy.pdf": "/CvPortofolio/static/media/java ansy.8f6fae83a5d432de0f0c.pdf",
+    "static/media/java dom.pdf": "/CvPortofolio/static/media/java dom.6f70b62405e71b83128e.pdf",
+    "static/media/javascript.pdf": "/CvPortofolio/static/media/javascript.7034dac18519b9450ef5.pdf",
+    "static/media/laravel.pdf": "/CvPortofolio/static/media/laravel.f2485b0c1885a191e86b.pdf",
+    "static/media/php&mysql.pdf": "/CvPortofolio/static/media/php&mysql.c8a922ab16648961d8fe.pdf",
+    "static/media/php.pdf": "/CvPortofolio/static/media/php.cd69574fb090d5010ca9.pdf",
+    "static/media/react js.pdf": "/CvPortofolio/static/media/react js.d0da0d1130388fffd6a8.pdf",
+    "static/media/vue js.pdf": "/CvPortofolio/static/media/vue js.8f28ef699553aaa30489.pdf",
+    "static/media/Me.png": "/CvPortofolio/static/media/Me.d59fd34352e8fe885a5b.png",
+    "index.html": "/CvPortofolio/index.html",
+    "main.d9dea3c6.css.map": "/CvPortofolio/static/css/main.d9dea3c6.css.map",
+    "main.461b07ec.js.map": "/CvPortofolio/static/js/main.461b07ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9dea3c6.css",
+    "static/js/main.461b07ec.js"
+  ]
+}
