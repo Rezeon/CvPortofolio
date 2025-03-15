@@ -1,6 +1,6 @@
 {
   "name": "project1",
-  "homepage": "https://Rezeon.github.io/CvPortofolio",
+  "homepage": "https://rezeon.github.io/CvPortofolio/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -24,7 +24,6 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
-
   },
   "eslintConfig": {
     "extends": [
